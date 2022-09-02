@@ -10,15 +10,15 @@ const rpc = require("discordrpcgenerator");
 
 
 
-let NAME = "Name"
+let NAME = "Github"
 let DETAILS = "Details"
-let STATE = "State"
-let URL = ""
-let APPID = ""
-let LARGEIMG = "Id Img"
-let LARGETEXT = "Large Text"
-let SMALLIMG = "Id Img"
-let SMALLTEXT = "Id Img"
+let STATE = "discord.js"
+let URL = "https://github.com/Uunkn0wnN"
+let APPID = "1014606828715380856"
+let LARGEIMG = "Github"
+let LARGETEXT = "Github"
+let SMALLIMG = "Github"
+let SMALLTEXT = "Github"
 
 
 
